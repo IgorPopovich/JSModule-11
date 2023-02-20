@@ -2,7 +2,6 @@ import SimpleLightbox from "simplelightbox";
 import "simplelightbox/dist/simple-lightbox.min.css";
 import Notiflix from 'notiflix';
 import axios from "axios";
-import sample from "./sample";
 
 const input = document.getElementById('input')
 const submit = document.getElementById('submit')  
