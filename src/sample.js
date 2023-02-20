@@ -1,4 +1,4 @@
-export default simple = (name) => {
+export default sample = (name) => {
     return `
     <a href="${name.largeImageURL}"> 
       <img src="${name.previewURL}" alt="" loading="lazy" />
