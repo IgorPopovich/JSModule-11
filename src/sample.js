@@ -1,4 +1,4 @@
-export default sample = (name) => {
+export function sample (name) {
     return `
     <a href="${name.largeImageURL}"> 
       <img src="${name.previewURL}" alt="" loading="lazy" />
